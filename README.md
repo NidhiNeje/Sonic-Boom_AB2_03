@@ -24,4 +24,6 @@ Our RAG-based CDSS model comprises of following components:
 | Transformer-based LLM    | To generate responses based on retrieved knowledge   |  
 
 The novelty and advantages introduced in ClinQAI over existing models are:  
--->Retrieving latest medical evidence before generating responses i.e. Real-Time  
+-->Retrieving latest medical evidence before generating responses i.e. Real-Time Retrieval of Knowledge.
+-->Domain specific language understanding using BioBERT that improves clinical accuracy.
+-->Optimization for larger medical datasets because FAISS enables fast similarity research across millions of patient records.
