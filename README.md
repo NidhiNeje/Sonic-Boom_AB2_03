@@ -3,7 +3,7 @@ A GitHub repository of entire documentation of Enhancing clinical decision suppo
 
 **PROBLEM STATEMENT 3 (PS 3)**
 
-**ENHANCING CLINICAL DECISION SUPPORT SYSTEMS WITH RETRIEVAL-AUGMENTED GENERATION (RAG) MODEL**  
+**ClinQAI (CLINICAL QUERY AI): ENHANCING CLINICAL DECISION SUPPORT SYSTEMS WITH RETRIEVAL-AUGMENTED GENERATION (RAG) MODEL**  
 
 **INTRODUCTION**  
 "Artificial Intelligence (AI) in healthcare could boost India's GDP by USD 25-30 billion by 2025, driven by initiatives like the IndiaAI Mission." quotes The Economic Times according to a report from Deloitte, enhnacing accesibilty, diagnostics and treatment outcomes. The IndiaAI Mission focuses towards setting the stage for a digitally empowered healthcare ecosystem, with resposible AI integration and enhnaced data security.In recent times, there has been a significant surge in research articles and industry analyses on transformative role AI plays in medical decision supoort. With advancements in modern healthcare, Clinical Decision Support Systems (CDSS) has emerged in assisting with diagnostics, recommendations in treatment and healthcare management.   
